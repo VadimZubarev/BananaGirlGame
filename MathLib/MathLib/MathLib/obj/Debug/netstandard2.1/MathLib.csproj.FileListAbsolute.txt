@@ -1,0 +1,10 @@
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\bin\Debug\netstandard2.1\MathLib.deps.json
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\bin\Debug\netstandard2.1\MathLib.dll
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\bin\Debug\netstandard2.1\MathLib.pdb
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\obj\Debug\netstandard2.1\MathLib.csproj.AssemblyReference.cache
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\obj\Debug\netstandard2.1\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\obj\Debug\netstandard2.1\MathLib.AssemblyInfoInputs.cache
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\obj\Debug\netstandard2.1\MathLib.AssemblyInfo.cs
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\obj\Debug\netstandard2.1\MathLib.csproj.CoreCompileInputs.cache
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\obj\Debug\netstandard2.1\MathLib.dll
+E:\Test projects\BananaGirlGame\MathLib\MathLib\MathLib\obj\Debug\netstandard2.1\MathLib.pdb
